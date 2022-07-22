@@ -1,9 +1,4 @@
-{
-	"version": "2",
-	"templates": [{
-			"type": 1,
-			"title": "Registry",
-			"name": "Registry",
+
 			"description": "Docker image registry",
 			"categories": ["docker"],
 			"platform": "linux",
@@ -2266,16 +2261,4 @@
     				},
 		     		{
       				"name": "HTTP_PASS",
-      				"label": "HTTP_PASS",
-				"description": "HTTP管理登录密码",
-      				"default": "bar"
-    				},
-		     		{
-      				"name": "PORT",
-      				"label": "PORT",
-				"description": "HTTP管理端口",
-      				"default": "5380"
-    				}]
-  		}
-	]
-}
+      				"labe
