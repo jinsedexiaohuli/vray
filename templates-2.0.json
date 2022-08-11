@@ -23,7 +23,7 @@
       "categories": ["operating-system"],
       "platform": "linux",
       "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/ubuntu.png",
-      "image": "centos:latest",
+      "image": "centos:centos7",
       "interactive": true,
       "command": "/bin/bash"
     },
